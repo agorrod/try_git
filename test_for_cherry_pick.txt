@@ -1,3 +1,6 @@
 Hello world!
 
 Add a new world.
+
+Try via rebase and merge.
+
